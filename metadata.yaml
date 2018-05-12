@@ -1,0 +1,32 @@
+_repo: The-Life-of-William-Ewart-Gladstone--Index_43036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43036-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+description: ''
+gutenberg_issued: '2013-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liberal Party (Great Britain) -- Biography'
+- !lcsh 'Indexes'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+- !lcsh 'Prime ministers -- Great Britain -- Biography'
+- !lcsh 'Gladstone, W. E. (William Ewart), 1809-1898'
+title: 'The Life of William Ewart Gladstone: Index'
+url: http://www.gutenberg.org/ebooks/43036
